@@ -1,2 +1,0 @@
-C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_3\Debug\ADS_3.exe
-C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_3\Debug\ADS_3.pdb
