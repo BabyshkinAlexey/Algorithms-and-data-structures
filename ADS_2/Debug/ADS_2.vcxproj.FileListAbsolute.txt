@@ -1,0 +1,2 @@
+C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_2\Debug\ADS_2.exe
+C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_2\Debug\ADS_2.pdb
