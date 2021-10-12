@@ -1,0 +1,3 @@
+﻿  ADS_7.cpp
+C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_7\ADS_7.cpp(41,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ADS_7.vcxproj -> C:\Users\mrale\Desktop\Алгоритмы и структуры данных_GB\ADS_7\Debug\ADS_7.exe
